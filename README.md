@@ -9,9 +9,9 @@ https://s3.amazonaws.com/sqlcipher/SQLCipher+for+Android+v3.1.0.zip
 
 4.开始使用SQLCipher：
   4.1 使用SQLCipher和正常的使用SQLite一样需要先创建SQLiteOpenHelper类，我创建的是MySQLiteOpenHelper类。
-      首先需要 'import net.sqlcipher.database.SQLiteDatabase;
+      首先需要 `import net.sqlcipher.database.SQLiteDatabase;
       import net.sqlcipher.database.SQLiteDatabase.CursorFactory;
-      import net.sqlcipher.database.SQLiteOpenHelper;' 
+      import net.sqlcipher.database.SQLiteOpenHelper;`
       注意：SQLiteOPenHelper类需要继承net.sqlcipher.database.SQLiteOpenHelper类而不是android自己的SQLiteOpenHelper。
       其他的和正常的使用SQLite是一样的。
   4.2 在Activity_Main.java中使用
