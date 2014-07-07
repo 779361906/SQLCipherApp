@@ -57,10 +57,8 @@ import net.sqlcipher.*;
 
 仅适用于android 4.0 (其他版本请等待测试)
 
-创建项目sqlcipherapp
-
 `git clone https://github.com/779361906/SQLCipherApp`
 
-将assets、libs、res、src这4个文件夹覆盖项目里的assets、libs、res、src即可。
+创建项目sqlcipherapp，将assets、libs、res、src这4个文件夹覆盖项目里的assets、libs、res、src即可。
 
 
