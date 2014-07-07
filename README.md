@@ -53,4 +53,14 @@ import net.sqlcipher.*;
 
 **注：我在MainActivity.java中使用了Toast做为操作响应监听，开发中可用Log.d替换。**
       
+## 使用我的例子
+
+仅适用于android 4.0 (其他版本请等待测试)
+
+创建项目sqlcipherapp
+
+`git clone https://github.com/779361906/SQLCipherApp`
+
+将assets、libs、res、src这4个文件夹覆盖项目里的assets、libs、res、src即可。
+
 
